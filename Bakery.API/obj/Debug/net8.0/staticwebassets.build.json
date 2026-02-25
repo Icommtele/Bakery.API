@@ -1,0 +1,1670 @@
+{
+  "Version": 1,
+  "Hash": "RPiXjymvjrXX6SFqWodmM3M8Qgm4fauu9+h6DYk/HUM=",
+  "Source": "Bakery.API",
+  "BasePath": "_content/Bakery.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Bakery.API\\wwwroot",
+      "Source": "Bakery.API",
+      "ContentRoot": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\",
+      "BasePath": "_content/Bakery.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\Animal.jpg",
+      "SourceId": "Bakery.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\",
+      "BasePath": "_content/Bakery.API",
+      "RelativePath": "images/Animal#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "q4ptx1eylg",
+      "Integrity": "hhYWXaYWIJ2wPc40tH3/jWEbwPteH7siEFrGk/Z2v/0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Animal.jpg"
+    },
+    {
+      "Identity": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\blackforest.jpg",
+      "SourceId": "Bakery.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\",
+      "BasePath": "_content/Bakery.API",
+      "RelativePath": "images/blackforest#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6cnqbssbox",
+      "Integrity": "Wqy6m1rcKsumvJ2VDRVe5k6g0LxgaaAu2fPvFoh5xBc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\blackforest.jpg"
+    },
+    {
+      "Identity": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\choco.jpg",
+      "SourceId": "Bakery.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\",
+      "BasePath": "_content/Bakery.API",
+      "RelativePath": "images/choco#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5e071tc3bu",
+      "Integrity": "vbLF8YaXkuEamzLV+yNszfXXG40meaOc63UbTlRMZ0Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\choco.jpg"
+    },
+    {
+      "Identity": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\Chocolatecool.jpg",
+      "SourceId": "Bakery.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\",
+      "BasePath": "_content/Bakery.API",
+      "RelativePath": "images/Chocolatecool#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fseehzwcn3",
+      "Integrity": "X1+CERsmEGs24LPR+2kc+sqoMXNhQUKTV80Eyyqibtg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Chocolatecool.jpg"
+    },
+    {
+      "Identity": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\Emgagement.jpg",
+      "SourceId": "Bakery.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\",
+      "BasePath": "_content/Bakery.API",
+      "RelativePath": "images/Emgagement#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5v2x2p6m4w",
+      "Integrity": "wbJML8qQL78KruP//d41dnqN1RDwfhFDbXVjMSSX7NI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Emgagement.jpg"
+    },
+    {
+      "Identity": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\Honeycool.jpg",
+      "SourceId": "Bakery.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\",
+      "BasePath": "_content/Bakery.API",
+      "RelativePath": "images/Honeycool#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cesew5q0wg",
+      "Integrity": "RHubMMU3F01VWJt1U04VUklefScsmyo6F+TFgZvsF1s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Honeycool.jpg"
+    },
+    {
+      "Identity": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\Kids.jpg",
+      "SourceId": "Bakery.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\",
+      "BasePath": "_content/Bakery.API",
+      "RelativePath": "images/Kids#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "35acmvbrmz",
+      "Integrity": "qR/BaEYn1f6JxinjMm/4wn27D3pm3YC4uKWfg8BHi2U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Kids.jpg"
+    },
+    {
+      "Identity": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\MilkMade.jpg",
+      "SourceId": "Bakery.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\",
+      "BasePath": "_content/Bakery.API",
+      "RelativePath": "images/MilkMade#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y7uhmkg9pn",
+      "Integrity": "Pplb0vuItwl5RMwRolurbgwfVHxp0rV3SdZxnGHIFe4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\MilkMade.jpg"
+    },
+    {
+      "Identity": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\PineApple.jpg",
+      "SourceId": "Bakery.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\",
+      "BasePath": "_content/Bakery.API",
+      "RelativePath": "images/PineApple#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "taiy6x4gd2",
+      "Integrity": "Jbu2kraD/AxVb8hN/Hh+zbh4M9b+7OKxGyaRIUoqYF4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\PineApple.jpg"
+    },
+    {
+      "Identity": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\PineApplecool.jpg",
+      "SourceId": "Bakery.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\",
+      "BasePath": "_content/Bakery.API",
+      "RelativePath": "images/PineApplecool#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1da40c1aoe",
+      "Integrity": "i7L/keWDQ//1W4W6S4/EuTGDqfu+t3OPSMTVoquAgcM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\PineApplecool.jpg"
+    },
+    {
+      "Identity": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\princess.jpg",
+      "SourceId": "Bakery.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\",
+      "BasePath": "_content/Bakery.API",
+      "RelativePath": "images/princess#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nqe94niydr",
+      "Integrity": "IW2BC5I9C+m+RBGU5QxCk6hYgIiYFDXX9Oj70cXBhWA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\princess.jpg"
+    },
+    {
+      "Identity": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\RedVelvetcool.jpg",
+      "SourceId": "Bakery.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\",
+      "BasePath": "_content/Bakery.API",
+      "RelativePath": "images/RedVelvetcool#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "szod11ajwh",
+      "Integrity": "OJuYmrWjkKLbx0exEaYA8lWMcAFx5Ktsa31LncbEIvY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\RedVelvetcool.jpg"
+    },
+    {
+      "Identity": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\Strawberry.jpg",
+      "SourceId": "Bakery.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\",
+      "BasePath": "_content/Bakery.API",
+      "RelativePath": "images/Strawberry#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z9vab72q6c",
+      "Integrity": "18MymnWaXU5uJRX+4CXIf3K1eCYVSaYeot/hQWg+CZA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Strawberry.jpg"
+    },
+    {
+      "Identity": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\vanilla.jpg",
+      "SourceId": "Bakery.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\",
+      "BasePath": "_content/Bakery.API",
+      "RelativePath": "images/vanilla#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p3ytthddzh",
+      "Integrity": "5YJVimNeHexfndomb2V9t86z92bCdxMxPKuC4tDQJEA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\vanilla.jpg"
+    },
+    {
+      "Identity": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\Wedding.jpg",
+      "SourceId": "Bakery.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\",
+      "BasePath": "_content/Bakery.API",
+      "RelativePath": "images/Wedding#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w1nej00djd",
+      "Integrity": "zGD+NE4/yTOz03L/yP3yMiK8ZMFr2D/fE6mIWi8L5qU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Wedding.jpg"
+    },
+    {
+      "Identity": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\WhiteForest.jpg",
+      "SourceId": "Bakery.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\",
+      "BasePath": "_content/Bakery.API",
+      "RelativePath": "images/WhiteForest#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dbi6oafd2x",
+      "Integrity": "OVL3yzcQHl4A0YeEXSy0RiQELXMkKsoXNsLFnwrKPdE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\WhiteForest.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/Animal.jpg",
+      "AssetFile": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\Animal.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9687"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hhYWXaYWIJ2wPc40tH3/jWEbwPteH7siEFrGk/Z2v/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Feb 2026 10:50:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hhYWXaYWIJ2wPc40tH3/jWEbwPteH7siEFrGk/Z2v/0="
+        }
+      ]
+    },
+    {
+      "Route": "images/Animal.q4ptx1eylg.jpg",
+      "AssetFile": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\Animal.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9687"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hhYWXaYWIJ2wPc40tH3/jWEbwPteH7siEFrGk/Z2v/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Feb 2026 10:50:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q4ptx1eylg"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Animal.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hhYWXaYWIJ2wPc40tH3/jWEbwPteH7siEFrGk/Z2v/0="
+        }
+      ]
+    },
+    {
+      "Route": "images/blackforest.6cnqbssbox.jpg",
+      "AssetFile": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\blackforest.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13088"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Wqy6m1rcKsumvJ2VDRVe5k6g0LxgaaAu2fPvFoh5xBc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Feb 2026 08:52:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6cnqbssbox"
+        },
+        {
+          "Name": "label",
+          "Value": "images/blackforest.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Wqy6m1rcKsumvJ2VDRVe5k6g0LxgaaAu2fPvFoh5xBc="
+        }
+      ]
+    },
+    {
+      "Route": "images/blackforest.jpg",
+      "AssetFile": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\blackforest.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13088"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Wqy6m1rcKsumvJ2VDRVe5k6g0LxgaaAu2fPvFoh5xBc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Feb 2026 08:52:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Wqy6m1rcKsumvJ2VDRVe5k6g0LxgaaAu2fPvFoh5xBc="
+        }
+      ]
+    },
+    {
+      "Route": "images/choco.5e071tc3bu.jpg",
+      "AssetFile": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\choco.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14387"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vbLF8YaXkuEamzLV+yNszfXXG40meaOc63UbTlRMZ0Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Feb 2026 08:52:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5e071tc3bu"
+        },
+        {
+          "Name": "label",
+          "Value": "images/choco.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vbLF8YaXkuEamzLV+yNszfXXG40meaOc63UbTlRMZ0Q="
+        }
+      ]
+    },
+    {
+      "Route": "images/choco.jpg",
+      "AssetFile": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\choco.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14387"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vbLF8YaXkuEamzLV+yNszfXXG40meaOc63UbTlRMZ0Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Feb 2026 08:52:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vbLF8YaXkuEamzLV+yNszfXXG40meaOc63UbTlRMZ0Q="
+        }
+      ]
+    },
+    {
+      "Route": "images/Chocolatecool.fseehzwcn3.jpg",
+      "AssetFile": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\Chocolatecool.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9004"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X1+CERsmEGs24LPR+2kc+sqoMXNhQUKTV80Eyyqibtg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Feb 2026 10:47:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fseehzwcn3"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Chocolatecool.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X1+CERsmEGs24LPR+2kc+sqoMXNhQUKTV80Eyyqibtg="
+        }
+      ]
+    },
+    {
+      "Route": "images/Chocolatecool.jpg",
+      "AssetFile": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\Chocolatecool.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9004"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X1+CERsmEGs24LPR+2kc+sqoMXNhQUKTV80Eyyqibtg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Feb 2026 10:47:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X1+CERsmEGs24LPR+2kc+sqoMXNhQUKTV80Eyyqibtg="
+        }
+      ]
+    },
+    {
+      "Route": "images/Emgagement.5v2x2p6m4w.jpg",
+      "AssetFile": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\Emgagement.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8594"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wbJML8qQL78KruP//d41dnqN1RDwfhFDbXVjMSSX7NI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Feb 2026 10:46:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5v2x2p6m4w"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Emgagement.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wbJML8qQL78KruP//d41dnqN1RDwfhFDbXVjMSSX7NI="
+        }
+      ]
+    },
+    {
+      "Route": "images/Emgagement.jpg",
+      "AssetFile": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\Emgagement.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8594"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wbJML8qQL78KruP//d41dnqN1RDwfhFDbXVjMSSX7NI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Feb 2026 10:46:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wbJML8qQL78KruP//d41dnqN1RDwfhFDbXVjMSSX7NI="
+        }
+      ]
+    },
+    {
+      "Route": "images/Honeycool.cesew5q0wg.jpg",
+      "AssetFile": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\Honeycool.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10309"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RHubMMU3F01VWJt1U04VUklefScsmyo6F+TFgZvsF1s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Feb 2026 10:44:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cesew5q0wg"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Honeycool.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RHubMMU3F01VWJt1U04VUklefScsmyo6F+TFgZvsF1s="
+        }
+      ]
+    },
+    {
+      "Route": "images/Honeycool.jpg",
+      "AssetFile": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\Honeycool.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10309"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RHubMMU3F01VWJt1U04VUklefScsmyo6F+TFgZvsF1s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Feb 2026 10:44:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RHubMMU3F01VWJt1U04VUklefScsmyo6F+TFgZvsF1s="
+        }
+      ]
+    },
+    {
+      "Route": "images/Kids.35acmvbrmz.jpg",
+      "AssetFile": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\Kids.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8859"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qR/BaEYn1f6JxinjMm/4wn27D3pm3YC4uKWfg8BHi2U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Feb 2026 10:51:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "35acmvbrmz"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Kids.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qR/BaEYn1f6JxinjMm/4wn27D3pm3YC4uKWfg8BHi2U="
+        }
+      ]
+    },
+    {
+      "Route": "images/Kids.jpg",
+      "AssetFile": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\Kids.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8859"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qR/BaEYn1f6JxinjMm/4wn27D3pm3YC4uKWfg8BHi2U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Feb 2026 10:51:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qR/BaEYn1f6JxinjMm/4wn27D3pm3YC4uKWfg8BHi2U="
+        }
+      ]
+    },
+    {
+      "Route": "images/MilkMade.jpg",
+      "AssetFile": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\MilkMade.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6694"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Pplb0vuItwl5RMwRolurbgwfVHxp0rV3SdZxnGHIFe4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Feb 2026 10:48:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Pplb0vuItwl5RMwRolurbgwfVHxp0rV3SdZxnGHIFe4="
+        }
+      ]
+    },
+    {
+      "Route": "images/MilkMade.y7uhmkg9pn.jpg",
+      "AssetFile": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\MilkMade.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6694"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Pplb0vuItwl5RMwRolurbgwfVHxp0rV3SdZxnGHIFe4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Feb 2026 10:48:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y7uhmkg9pn"
+        },
+        {
+          "Name": "label",
+          "Value": "images/MilkMade.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Pplb0vuItwl5RMwRolurbgwfVHxp0rV3SdZxnGHIFe4="
+        }
+      ]
+    },
+    {
+      "Route": "images/PineApple.jpg",
+      "AssetFile": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\PineApple.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9102"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jbu2kraD/AxVb8hN/Hh+zbh4M9b+7OKxGyaRIUoqYF4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Feb 2026 10:43:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jbu2kraD/AxVb8hN/Hh+zbh4M9b+7OKxGyaRIUoqYF4="
+        }
+      ]
+    },
+    {
+      "Route": "images/PineApple.taiy6x4gd2.jpg",
+      "AssetFile": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\PineApple.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9102"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jbu2kraD/AxVb8hN/Hh+zbh4M9b+7OKxGyaRIUoqYF4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Feb 2026 10:43:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "taiy6x4gd2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/PineApple.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jbu2kraD/AxVb8hN/Hh+zbh4M9b+7OKxGyaRIUoqYF4="
+        }
+      ]
+    },
+    {
+      "Route": "images/PineApplecool.1da40c1aoe.jpg",
+      "AssetFile": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\PineApplecool.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i7L/keWDQ//1W4W6S4/EuTGDqfu+t3OPSMTVoquAgcM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Feb 2026 10:43:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1da40c1aoe"
+        },
+        {
+          "Name": "label",
+          "Value": "images/PineApplecool.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-i7L/keWDQ//1W4W6S4/EuTGDqfu+t3OPSMTVoquAgcM="
+        }
+      ]
+    },
+    {
+      "Route": "images/PineApplecool.jpg",
+      "AssetFile": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\PineApplecool.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i7L/keWDQ//1W4W6S4/EuTGDqfu+t3OPSMTVoquAgcM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Feb 2026 10:43:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-i7L/keWDQ//1W4W6S4/EuTGDqfu+t3OPSMTVoquAgcM="
+        }
+      ]
+    },
+    {
+      "Route": "images/princess.jpg",
+      "AssetFile": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\princess.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7101"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IW2BC5I9C+m+RBGU5QxCk6hYgIiYFDXX9Oj70cXBhWA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Feb 2026 08:53:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IW2BC5I9C+m+RBGU5QxCk6hYgIiYFDXX9Oj70cXBhWA="
+        }
+      ]
+    },
+    {
+      "Route": "images/princess.nqe94niydr.jpg",
+      "AssetFile": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\princess.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7101"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IW2BC5I9C+m+RBGU5QxCk6hYgIiYFDXX9Oj70cXBhWA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Feb 2026 08:53:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nqe94niydr"
+        },
+        {
+          "Name": "label",
+          "Value": "images/princess.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IW2BC5I9C+m+RBGU5QxCk6hYgIiYFDXX9Oj70cXBhWA="
+        }
+      ]
+    },
+    {
+      "Route": "images/RedVelvetcool.jpg",
+      "AssetFile": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\RedVelvetcool.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10347"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OJuYmrWjkKLbx0exEaYA8lWMcAFx5Ktsa31LncbEIvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Feb 2026 10:51:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OJuYmrWjkKLbx0exEaYA8lWMcAFx5Ktsa31LncbEIvY="
+        }
+      ]
+    },
+    {
+      "Route": "images/RedVelvetcool.szod11ajwh.jpg",
+      "AssetFile": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\RedVelvetcool.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10347"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OJuYmrWjkKLbx0exEaYA8lWMcAFx5Ktsa31LncbEIvY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Feb 2026 10:51:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "szod11ajwh"
+        },
+        {
+          "Name": "label",
+          "Value": "images/RedVelvetcool.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OJuYmrWjkKLbx0exEaYA8lWMcAFx5Ktsa31LncbEIvY="
+        }
+      ]
+    },
+    {
+      "Route": "images/Strawberry.jpg",
+      "AssetFile": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\Strawberry.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9257"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"18MymnWaXU5uJRX+4CXIf3K1eCYVSaYeot/hQWg+CZA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Feb 2026 10:40:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-18MymnWaXU5uJRX+4CXIf3K1eCYVSaYeot/hQWg+CZA="
+        }
+      ]
+    },
+    {
+      "Route": "images/Strawberry.z9vab72q6c.jpg",
+      "AssetFile": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\Strawberry.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9257"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"18MymnWaXU5uJRX+4CXIf3K1eCYVSaYeot/hQWg+CZA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Feb 2026 10:40:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z9vab72q6c"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Strawberry.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-18MymnWaXU5uJRX+4CXIf3K1eCYVSaYeot/hQWg+CZA="
+        }
+      ]
+    },
+    {
+      "Route": "images/vanilla.jpg",
+      "AssetFile": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\vanilla.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7053"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5YJVimNeHexfndomb2V9t86z92bCdxMxPKuC4tDQJEA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Feb 2026 08:52:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5YJVimNeHexfndomb2V9t86z92bCdxMxPKuC4tDQJEA="
+        }
+      ]
+    },
+    {
+      "Route": "images/vanilla.p3ytthddzh.jpg",
+      "AssetFile": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\vanilla.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7053"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5YJVimNeHexfndomb2V9t86z92bCdxMxPKuC4tDQJEA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Feb 2026 08:52:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p3ytthddzh"
+        },
+        {
+          "Name": "label",
+          "Value": "images/vanilla.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5YJVimNeHexfndomb2V9t86z92bCdxMxPKuC4tDQJEA="
+        }
+      ]
+    },
+    {
+      "Route": "images/Wedding.jpg",
+      "AssetFile": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\Wedding.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5813"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zGD+NE4/yTOz03L/yP3yMiK8ZMFr2D/fE6mIWi8L5qU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Feb 2026 10:50:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zGD+NE4/yTOz03L/yP3yMiK8ZMFr2D/fE6mIWi8L5qU="
+        }
+      ]
+    },
+    {
+      "Route": "images/Wedding.w1nej00djd.jpg",
+      "AssetFile": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\Wedding.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5813"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zGD+NE4/yTOz03L/yP3yMiK8ZMFr2D/fE6mIWi8L5qU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Feb 2026 10:50:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w1nej00djd"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Wedding.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zGD+NE4/yTOz03L/yP3yMiK8ZMFr2D/fE6mIWi8L5qU="
+        }
+      ]
+    },
+    {
+      "Route": "images/WhiteForest.dbi6oafd2x.jpg",
+      "AssetFile": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\WhiteForest.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8132"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OVL3yzcQHl4A0YeEXSy0RiQELXMkKsoXNsLFnwrKPdE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Feb 2026 10:44:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dbi6oafd2x"
+        },
+        {
+          "Name": "label",
+          "Value": "images/WhiteForest.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OVL3yzcQHl4A0YeEXSy0RiQELXMkKsoXNsLFnwrKPdE="
+        }
+      ]
+    },
+    {
+      "Route": "images/WhiteForest.jpg",
+      "AssetFile": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\WhiteForest.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8132"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OVL3yzcQHl4A0YeEXSy0RiQELXMkKsoXNsLFnwrKPdE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 24 Feb 2026 10:44:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OVL3yzcQHl4A0YeEXSy0RiQELXMkKsoXNsLFnwrKPdE="
+        }
+      ]
+    }
+  ]
+}

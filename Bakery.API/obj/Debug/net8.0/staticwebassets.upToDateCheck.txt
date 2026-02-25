@@ -1,0 +1,16 @@
+wwwroot\images\Animal.jpg
+wwwroot\images\blackforest.jpg
+wwwroot\images\choco.jpg
+wwwroot\images\Chocolatecool.jpg
+wwwroot\images\Emgagement.jpg
+wwwroot\images\Honeycool.jpg
+wwwroot\images\Kids.jpg
+wwwroot\images\MilkMade.jpg
+wwwroot\images\PineApple.jpg
+wwwroot\images\PineApplecool.jpg
+wwwroot\images\princess.jpg
+wwwroot\images\RedVelvetcool.jpg
+wwwroot\images\Strawberry.jpg
+wwwroot\images\vanilla.jpg
+wwwroot\images\Wedding.jpg
+wwwroot\images\WhiteForest.jpg

@@ -1,0 +1,89 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\Animal.jpg",
+      "PackagePath": "staticwebassets\\images\\Animal.jpg"
+    },
+    {
+      "Id": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\Chocolatecool.jpg",
+      "PackagePath": "staticwebassets\\images\\Chocolatecool.jpg"
+    },
+    {
+      "Id": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\Emgagement.jpg",
+      "PackagePath": "staticwebassets\\images\\Emgagement.jpg"
+    },
+    {
+      "Id": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\Honeycool.jpg",
+      "PackagePath": "staticwebassets\\images\\Honeycool.jpg"
+    },
+    {
+      "Id": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\Kids.jpg",
+      "PackagePath": "staticwebassets\\images\\Kids.jpg"
+    },
+    {
+      "Id": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\MilkMade.jpg",
+      "PackagePath": "staticwebassets\\images\\MilkMade.jpg"
+    },
+    {
+      "Id": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\PineApple.jpg",
+      "PackagePath": "staticwebassets\\images\\PineApple.jpg"
+    },
+    {
+      "Id": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\PineApplecool.jpg",
+      "PackagePath": "staticwebassets\\images\\PineApplecool.jpg"
+    },
+    {
+      "Id": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\RedVelvetcool.jpg",
+      "PackagePath": "staticwebassets\\images\\RedVelvetcool.jpg"
+    },
+    {
+      "Id": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\Strawberry.jpg",
+      "PackagePath": "staticwebassets\\images\\Strawberry.jpg"
+    },
+    {
+      "Id": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\Wedding.jpg",
+      "PackagePath": "staticwebassets\\images\\Wedding.jpg"
+    },
+    {
+      "Id": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\WhiteForest.jpg",
+      "PackagePath": "staticwebassets\\images\\WhiteForest.jpg"
+    },
+    {
+      "Id": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\blackforest.jpg",
+      "PackagePath": "staticwebassets\\images\\blackforest.jpg"
+    },
+    {
+      "Id": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\choco.jpg",
+      "PackagePath": "staticwebassets\\images\\choco.jpg"
+    },
+    {
+      "Id": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\princess.jpg",
+      "PackagePath": "staticwebassets\\images\\princess.jpg"
+    },
+    {
+      "Id": "D:\\Amarendra\\Bakery.API\\Bakery.API\\wwwroot\\images\\vanilla.jpg",
+      "PackagePath": "staticwebassets\\images\\vanilla.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Bakery.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Bakery.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Bakery.API.props",
+      "PackagePath": "build\\Bakery.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Bakery.API.props",
+      "PackagePath": "buildMultiTargeting\\Bakery.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Bakery.API.props",
+      "PackagePath": "buildTransitive\\Bakery.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
